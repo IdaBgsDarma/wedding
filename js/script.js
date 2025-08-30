@@ -140,8 +140,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // Daftar gambar (pakai path kamu sendiri)
     const imgs = [
       'assets/image/cover.jpg',
-      'assets/image/galeri1.jpg',
-      'assets/image/galeri2.jpg'
+      'assets/image/galeri12.jpg',
+      'assets/image/galeri18.jpg',
+      'assets/image/galeri5.jpg',
+      'assets/image/galeri16.jpg'
     ];
 
     // Preload semua gambar dulu biar transisi halus
